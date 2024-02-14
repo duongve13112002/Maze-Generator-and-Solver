@@ -1,0 +1,46 @@
+﻿  Mazegamemakeforfun.cpp
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(75,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(75,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(76,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(76,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(79,26): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(79,31): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(80,46): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(80,51): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(83,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(83,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(84,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(84,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(87,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(87,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(88,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(88,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(95,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(95,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(97,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(97,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(99,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(99,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(101,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(101,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(105,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(106,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(116,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(116,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(198,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(199,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(219,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(220,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(296,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(419,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(563,44): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\duong\source\repos\Mazegamemakeforfun\Mazegamemakeforfun\Mazegamemakeforfun.cpp(563,62): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+  Mazegamemakeforfun.vcxproj -> C:\Users\duong\source\repos\Mazegamemakeforfun\Debug\Mazegamemakeforfun.exe
