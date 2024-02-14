@@ -283,7 +283,7 @@ int support_pre_cell = 0;
 //}
 int end_x = *cols - 1;
 int end_y = *rows - 1;
-//Hai cái này là giúp chuyển đổi các ô bắt đầu và kết thúc 
+//Change the starting and ending cells."
 int change_start_time = 0;
 int change_end_time = 0;
 void playMaze()
@@ -368,7 +368,7 @@ void playMaze()
 
         checkInput();
         //flagx = 1;
-        if (state == add_start) //Cho start vao để nó giải maze
+        if (state == add_start)
         {
             addToOpenSet(start); // add start to open set
             if ((end->walls[0] == true) && (end->walls[1] == true) && (end->walls[2] == true) && (end->walls[3] == true))
@@ -523,7 +523,7 @@ void playMaze()
             }
         }
 
-        if (state == add_wall) // Check add_tuongvo
+        if (state == add_wall) 
         {
             //remove_add_wall_from_user(window, event);
             sf::Vector2i MousePosn = sf::Mouse::getPosition(window);
@@ -785,7 +785,7 @@ void change_rows()
                     std::stringstream geek(set_row);
                     int temp_rows = 0;
                     geek >> temp_rows;
-                    if ((temp_rows <= MAX_ROWS) && (temp_rows > 0))// Được cấp phát tối đa 40 rows là MAX
+                    if ((temp_rows <= MAX_ROWS) && (temp_rows > 0))
                     {
                         value_rows = temp_rows;
                     }
