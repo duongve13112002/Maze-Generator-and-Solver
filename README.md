@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a C++ project that demonstrates the generation and solving of mazes. The maze generation is implemented using the Randomized Depth-First-Search algorithm, and maze solving is achieved using the A* algorithm. The project utilizes the SFML (Simple and Fast Multimedia Library) graphic library for visualizing the maze generation and solving process.
+This repository contains a C++ project that demonstrates the generation and solving of mazes. The maze generation is implemented using the Randomized Depth-First-Search algorithm, and maze solving is achieved using the A* algorithm. The project utilizes the [SFML](https://github.com/SFML/SFML) (Simple and Fast Multimedia Library) graphic library for visualizing the maze generation and solving process.
 
 ## Features
 
@@ -89,6 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - The Randomized Depth-First-Search algorithm and A* algorithm are classic computer science algorithms widely used in maze generation and solving.
-- SFML provides a simple and efficient multimedia library for C++.
+- [SFML](https://github.com/SFML/SFML) provides a simple and efficient multimedia library for C++.
 
 Enjoy exploring and solving mazes with this project!
